@@ -7,7 +7,8 @@ I have been learning web development for 3 years. Through problem-solving, I cre
 
 * 🌍  I'm based in Kosovo, Prizren
 * 🖥️  See my portfolio at [My Website](http://denisskenderi.github.io)
-*✉️  You can contact me at [denis05skenderi@gmail.com](mailto:denis05skenderi@gmail.com)
+* ✉️ You can contact me at [denis05skenderi@gmail.com](mailto:denis05skenderi@gmail.com)
+* 🚀  I'm currently working on [Java Projects](http://github.com/DenisSkenderi/javaProjects)
 * 🧠  I'm learning Java
 
 ### Skills 
